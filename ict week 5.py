@@ -35,3 +35,4 @@ ax.scatter(x,f)
 ax.plot(smooth_x, fitted_trend, 'r')
 
 plt.show()
+
